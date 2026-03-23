@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.ingenia.com.ar" target="_blank" rel="noreferrer">
-<img src="images/ingenia Control.png" alt="Ingenia" width="300"/>
+<img src="images/ingenia-control.png" alt="Ingenia" width="300"/>
 </a>
 
 ### Electrónica y Automatización Industrial
@@ -17,7 +17,7 @@ Buenos Aires, Argentina &nbsp;·&nbsp; Montevideo, Uruguay
 
 <div align="center">
 
-## 🏭 ¿Quiénes Somos?
+# 🏭 ¿Quiénes Somos?
 
 En **Ingenia** potenciamos tus procesos productivos con **soluciones integrales de control y automatización** diseñadas para agregar valor y garantizar resultados sostenibles. Nuestro equipo de expertos, apasionados por la excelencia, **te respalda** como tu **socio estratégico** para integrar tecnología de vanguardia que transforma tu operación en la planta del futuro, maximizando **eficiencia, seguridad y competitividad.**
 </div>
@@ -26,7 +26,7 @@ En **Ingenia** potenciamos tus procesos productivos con **soluciones integrales 
 
 <div align="center">
 
-## ⚙️ Servicios
+# ⚙️ Servicios
 
 ### Automatización Industrial
 
@@ -37,7 +37,7 @@ En **Ingenia** potenciamos tus procesos productivos con **soluciones integrales 
 | ⚡ **Ingeniería Eléctrica** |
 | 🛠️ **Armado de tableros de control y potencia** |
 
-### IIoT & Transformación Digital
+# IIoT & Transformación Digital
 
 | Servicio | Descripción |
 |---|---|
@@ -135,7 +135,7 @@ En **Ingenia** potenciamos tus procesos productivos con **soluciones integrales 
 
 <div align="center">
 
-## 👥 [Trabajá con Nosotros](https://ingenia.adhoc.ar/jobs)
+# 👥 [Trabajá con Nosotros](https://ingenia.adhoc.ar/jobs)
 
 Unite a nuestro Equipo y ayúdanos a transformar la industria.
 
