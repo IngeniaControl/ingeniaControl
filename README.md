@@ -135,7 +135,7 @@ En **Ingenia** potenciamos tus procesos productivos con **soluciones integrales 
 
 <div align="center">
 
-# 👥 [Trabajá con Nosotros](https://ingenia.adhoc.ar/jobs)
+# 👥 [Trabajá con Nosotros](https://www.ingenia.com.ar/jobs)
 
 Unite a nuestro Equipo y ayúdanos a transformar la industria.
 
